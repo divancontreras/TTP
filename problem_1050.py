@@ -1,0 +1,1 @@
+entry = raw_input()
